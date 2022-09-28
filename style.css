@@ -1,0 +1,16 @@
+h2{
+    font-size: 30px ;
+}
+.btn-warning:hover{
+background-color: blueviolet;
+}
+canvas{
+    animation-name: asd;
+animation-duration: 10s;
+animation-iteration-count: infinite;
+
+}
+@keyframes asd {
+    from {box-shadow: 1px 1px 40px yellowgreen};
+    to {box-shadow: 1px 1px 40px rgb(181, 28, 220)};
+}
